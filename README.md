@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh Deolalkar 
-- 👀 I’m interested in Comprtitive Programming
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning B.tech in Computer Eng
 
 <!---

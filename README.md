@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yogesh Deolalkar 
+- 👋 Hi, I’m Yogesh Rajendra Deolalkar 
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning B.tech in Computer Eng
 

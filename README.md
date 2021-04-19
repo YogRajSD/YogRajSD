@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh Rajendra Deolalkar 
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning B.tech in Computer Eng
+- 🌱 I’m currently learning B.Tech in Computer Eng
 
 <!---
 YogRajSD/YogRajSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
